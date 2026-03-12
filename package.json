@@ -1,6 +1,6 @@
 {
   "name": "@selorax/cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SeloraX developer CLI — build, test, and deploy extensions",
   "bin": {
     "selorax": "./bin/selorax.js"
